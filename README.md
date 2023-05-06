@@ -1,18 +1,18 @@
 <div style="display: block;
-background-image: linear-gradient(to top, #9696c9, #020024); text-align: center">
+background-image: linear-gradient(to top, #9696c9, #020024); align="center">
 <h1> Hello World! Eu sou o <a href="[Flavio Filho](https://www.linkedin.com/in/flavio-nogueira-duarte-filho-628478239/)">Flavio Filho</a> 🫡</h1>
 </div>
 
-<div style="text-align: center;">
+<div align="center">
 Atualmente sou Auxiliar de TI e irei compartilhar meu projetos e evolução na área de tecnologia que eu escolhi.</br>
 Já me segue aí para mais atualizações e aprendermos juntos!</p>
-<br><hr><br>
+<br><hr>
 <h2 style="font-size: 30px;">Formação</h2>
 <p>Estou cursando Bacharelado em Engenharia de Software no Instituto Federal de Goiás (IFG)<br>
 Ademais, sigo com outros cursos e aprendizados em paralelo para alcançar meu objetivo na programação.</p>
-<br><hr><br>
+<br><hr>
 <h2 style="font-size: 30px;">Front-end</h2>
-<p>Confesso que quando iniciei o curso eu não tinha certeza para onde estava indo e nem do que gostava, mas com o auxílio de livros e dedicação para me encontrar profissionalmente, me encontrei no Front-End, e futuramente Full-Stack.</p><br><hr><br><br>
+<p>Confesso que quando iniciei o curso eu não tinha certeza para onde estava indo e nem do que gostava, mas com o auxílio de livros e dedicação para me encontrar profissionalmente, me encontrei no Front-End, e futuramente Full-Stack.</p><br><hr><br>
 </div>
 
 <div align="center">
