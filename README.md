@@ -1,8 +1,10 @@
-### Olá! Eu sou o Flavio Filho 🫡
+<div style="display: block;
+background-image: linear-gradient(to top, #9696c9, #020024); border-radius: 30px; text-align: center" width="40px" height="40px">
+<h1> Hello World! Eu sou o Flavio Filho 🫡</h1>
+</div>
+
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/flavio-nogueira-duarte-filho-628478239/)
-
-![Flavio Filho GitHub stats](https://github-readme-stats.vercel.app/api?username=filho-flavio&show_icons=true&theme=tokyonight)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=filho-flavio)](https://github.com/anuraghazra/github-readme-stats)
 
