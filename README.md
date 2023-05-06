@@ -1,5 +1,5 @@
 <div style="display: block;
-background-image: linear-gradient(to top, #9696c9, #020024); align="center">
+background-image: linear-gradient(to top, #9696c9, #020024);" align="center">
 <h1> Hello World! Eu sou o <a href="[Flavio Filho](https://www.linkedin.com/in/flavio-nogueira-duarte-filho-628478239/)">Flavio Filho</a> 🫡</h1>
 </div>
 
