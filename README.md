@@ -17,7 +17,7 @@ Ademais, sigo com outros cursos e aprendizados em paralelo para alcançar meu ob
 
 <div align="center">
   <a href="https://github.com/filho-flavio">
-    <img height="200em" src="(https://github-readme-stats.vercel.app/api/top-langs/?username=filho-flavio&theme=dracula&hide_border=false&&layout=compact)"/>
+   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=filho-flavio&layout=compact"/>
   </a>
 </div>
 
