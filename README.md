@@ -18,7 +18,7 @@ Ademais, sigo com outros cursos e aprendizados em paralelo para alcançar meus o
   <img src="https://i.imgur.com/YCw47Dm.gif">
   <br/><br/><br/>
   <a href="https://github.com/filho-flavio">
-    <img height="200em" src="https://github-stats-alpha.vercel.app/api?username=filho-flavio&cc=0d1117&tc=fff&ic=fff&bc=fff"/>
+  <!--  <img height="200em" src="https://github-stats-alpha.vercel.app/api?username=filho-flavio&cc=0d1117&tc=fff&ic=fff&bc=fff"/>-->
    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=filho-flavio&layout=compact&theme=dark"/>
   </a>
   <img src="https://capsule-render.vercel.app/api?type=shark&height=30&section=header&reversal=false&color=0:b579da,100:79da7f">
