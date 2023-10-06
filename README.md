@@ -6,10 +6,10 @@ background-image: linear-gradient(to top, #9696c9, #020024);" align="center">
 </div>
 
 <div align="center" width="400px">
-Sou um Estudante em Projeto de Pesquisa e irei compartilhar meus projetos e evolução em desenvolvimento de software.</br>
-Estou cursando Bacharelado em Engenharia de Software no Instituto Federal de Goiás (IFG)<br>
-Ademais, sigo com outros cursos e aprendizados em paralelo para alcançar meus objetivos na programação.</p>
-<br>
+<p>Sou um estudante de projeto de pesquisa e vou compartilhar meus projetos e minha jornada no desenvolvimento de software.</p>
+  <p>Estou cursando Bacharelado em Engenharia de Software no Instituto Federal de Goiás (IFG).</p>
+  <p>Além disso, estou me dedicando a outros cursos e aprendizados para alcançar meus objetivos na programação.</p>
+</div>
 <br>
 </div>
 
