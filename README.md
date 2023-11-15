@@ -17,8 +17,8 @@
 <div align="center">
    <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
    <br/><br/><br/><br/>
-     <img height="200em" src="https://github-stats-alpha.vercel.app/api?username=filho-flavio&cc=fff&tc=3b87ed&ic=e34c26&bc=fff"/>
-     <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=filho-flavio&layout=compact"/>
+     <img height="200em" width="380px" src="https://github-stats-alpha.vercel.app/api?username=filho-flavio&cc=fff&tc=3b87ed&ic=e34c26&bc=fff"/>
+     <img height="200em" width="360px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=filho-flavio&layout=compact"/>
    <br/><br/><br/><br/>
    <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"><br/>
 </div>
