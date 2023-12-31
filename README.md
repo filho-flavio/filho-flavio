@@ -1,13 +1,13 @@
 <div style="align="">
-  <h1 style="color: #fff; font-size: 50px;">Hello There! Eu sou o Flávio Filho</h1>
+  <h1 style="color: #fff; font-size: 50px;">Hello There! I am Flávio Filho</h1>
 </div>
 
-  <p>- 👨‍💻 Estudante de projeto de pesquisa e vou compartilhar meus projetos e minha jornada no desenvolvimento de software.</p>
-  <p>- 🔭 Estou cursando Bacharelado em Engenharia de Software no Instituto Federal de Goiás (IFG).</p>
-  <p>- 🎯 Além disso, estou me dedicando a outros cursos e aprendizados para alcançar meus objetivos na programação.</p><br><br>
+  <p>- 👨‍💻 Research project student and I will share my projects and my journey in software development.</p>
+  <p>- 🔭 I'm studying a Bachelor's degree in Software Engineering at the Federal Institute of Goiás (IFG).</p>
+  <p>- 🎯 Furthermore, I am dedicating myself to other courses and learning to achieve my programming goals.</p><br><br>
 
 <div align="right">
-  <h2>📫 Entre em contato comigo </h2> 
+  <h2>📫 Contact me </h2> 
   <a href="mailto:engenheiro.flaviofilho@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/flavio-nogueira-filho/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white"/></a>
   <a href="https://www.instagram.com/engenheiro.flaviofilho/"><img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
@@ -23,7 +23,7 @@
    <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"><br/>
 </div>
 
-<h2> ⚡ Tecnologias favoritas</h2>
+<h2> ⚡ Favorite technologies</h2>
 <div align="center"><br/>  
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,react,nodejs,git,github,mysql,figma,linux" />
 </div>
