@@ -25,7 +25,7 @@
 
 <h2> ⚡ Favorite technologies</h2>
 <div align="center"><br/>  
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,react,nodejs,git,github,mysql,figma,linux" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,react,nodejs,git,github,mysql,java,figma,linux" />
 </div>
 
 <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
