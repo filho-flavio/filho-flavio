@@ -2,7 +2,7 @@
   <h1 style="color: #fff; font-size: 50px;">Hello There! I am Flávio Filho</h1>
 </div>
 
-  <p>- 👨‍💻 Research project student and I will share my projects and my journey in software development.</p>
+  <p>- 👨‍💻 A research project student and I will share my projects and my journey in software development.</p>
   <p>- 🔭 I'm studying a Bachelor's degree in Software Engineering at the Federal Institute of Goiás (IFG).</p>
   <p>- 🎯 Furthermore, I am dedicating myself to other courses and learning to achieve my programming goals.</p><br><br>
 
