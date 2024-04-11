@@ -17,9 +17,9 @@
 <div align="center">
    <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
    <br/><br/><br/><br/>
-     <img height="200em" width="300px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=filho-flavio&theme=aura_dark"/>
-     <img height="200em" width="300px" src="https://github-readme-streak-stats.herokuapp.com?user=filho-flavio&theme=github-dark&hide_border=true"/>
-     <img height="200em" width="300px" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=filho-flavio&theme=aura_dark"/>
+     <img height="200em" width="250px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=filho-flavio&theme=aura_dark"/>
+     <img height="200em" width="250px" src="https://github-readme-streak-stats.herokuapp.com?user=filho-flavio&theme=github-dark&hide_border=true"/>
+     <img height="200em" width="250px" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=filho-flavio&theme=aura_dark"/>
   
    <br/><br/><br/><br/>
    <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"><br/>
