@@ -17,15 +17,17 @@
 <div align="center">
    <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
    <br/><br/><br/><br/>
-     <img height="200em" width="380px" src="https://github-stats-alpha.vercel.app/api?username=filho-flavio&cc=fff&tc=3b87ed&ic=e34c26&bc=fff"/>
-     <img height="200em" width="360px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=filho-flavio&layout=compact"/>
+     <img height="200em" width="320px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=filho-flavio&theme=aura_dark"/>
+     <img height="200em" width="320px" src="https://github-readme-streak-stats.herokuapp.com?user=filho-flavio&theme=github-dark&hide_border=true"/>
+     <img height="200em" width="320px" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=filho-flavio&theme=aura_dark"/>
+  
    <br/><br/><br/><br/>
    <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"><br/>
 </div>
 
 <h2> ⚡ Favorite technologies</h2>
 <div align="center"><br/>  
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,typescript,react,nodejs,git,github,mysql,java,figma,linux" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,typescript,react,nodejs,git,github,mysql,mongodb,java,figma,linux,python" />
 </div>
 
 <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
